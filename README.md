@@ -37,7 +37,7 @@ This project was built to satisfy all mandatory and bonus requirements for a com
 ---
 
 ## 🛠️ Technology Stack
-*   **Frontend:** Angular 17+, Tailwind CSS, Angular Material, RxJS, Signals.
+*   **Frontend:** Angular 20, Tailwind CSS, Angular Material, RxJS, Signals.
 *   **Backend:** Node.js, Express.js, Socket.io, Swagger-JSDoc.
 *   **Database:** MongoDB & Mongoose.
 
